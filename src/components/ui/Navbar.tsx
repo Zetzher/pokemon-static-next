@@ -28,7 +28,7 @@ export const Navbar = () => {
           P
         </Text>
         <Text color="white" h3>
-          okémon
+          okémon!
         </Text>
       </NextLink>
       <NextLink href="/favourites" style={{ marginLeft: 10 }}>
